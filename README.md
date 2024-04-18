@@ -7,6 +7,7 @@ Each example has a two-part prefix, `<cloud>-<language>`, to indicate which `<cl
 For example, `<cloud>` could be `aws` for [Amazon Web Services](https://github.com/pulumi/pulumi-aws), `azure` for [Microsoft
 Azure](https://github.com/pulumi/pulumi-azure), `gcp` for [Google Cloud
 Platform](https://github.com/pulumi/pulumi-gcp), `kubernetes` for
+
 [Kubernetes](https://github.com/pulumi/pulumi-kubernetes), or `cloud` for
 [Pulumi's cross-cloud programming framework](https://github.com/pulumi/pulumi-cloud).
 
